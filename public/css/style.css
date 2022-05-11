@@ -1,0 +1,19 @@
+form .avatar
+{
+	width: 55px;
+	margin-bottom: 5%;
+}
+
+.navbar .container-avatar
+{
+	width: 35px;
+	height: 35px;
+	border-radius: 900px;
+	overflow: hidden;
+	margin-left: 5%;
+}
+
+.navbar .container-avatar img
+{
+	height: 100%;
+}
